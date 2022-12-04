@@ -1,0 +1,113 @@
+[
+    {
+        "DAAWAT-E-KHAAS SHURUAAT":[
+            {
+                "name": "SURK BHATTIWALA PANEER",
+                "cost": "294",
+                "imag" : ""
+            },
+            {
+                "name": "BHATTI KA MURGA (FULL)",
+                "cost": "522",
+                "imag" : ""},
+            {
+                "name": "BHATTI KA MURGA (HALF)",
+                "cost": "270",
+                "imag" : ""
+            },
+            {
+                "name": "MURGA TIKKA (6PCS.)",
+                "cost": "354",
+                "imag" : ""
+            },
+            {
+                "name": "MURGA MALAI KABAB (6PCS.)",
+                "cost": "354",
+                "imag" : ""
+            }
+        
+        ]
+    },
+    {
+        "Kathi Kabab Roll'S":[
+            {
+                "name": "Double Chicken Kathi Kabab Roll",
+                "cost": "125",
+                "imag" : ""
+            },
+            {
+                "name": "Double Eggs Roll",
+                "cost": "85",
+                "imag" : ""
+            },
+            {
+                "name": "Double Mutton Kathi Kabab Roll",
+                "cost": "155",
+                "imag" : ""
+            }, {
+                "name": "Egg Chicken Roll",
+                "cost": "115",
+                "imag" : ""
+            } 
+            ,{
+                "name": "Egg Mutton Roll",
+                "cost": "135",
+                "imag" : ""
+            },
+             {
+                "name": "Egg Roll",
+                "cost": "65",
+                "imag" : ""
+            }
+            , {
+                "name": "Masala Paneer Roll",
+                "cost": "85",
+                "imag" : ""
+            }
+        
+        ]
+    },
+    {
+        "Tandoori Kebab'S":[
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            },
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            },
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            }
+        
+        ]
+    },
+    {
+        "Veg Gravy":[
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            },
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            },
+            {
+                "name": "a",
+                "cost": "500",
+                "imag" : ""
+            }
+        
+        ]
+    }
+
+    
+    
+]
