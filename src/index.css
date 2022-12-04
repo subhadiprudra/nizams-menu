@@ -53,14 +53,11 @@ code {
 
 }
 
-.main-box{
-  backgroundImage: url(./images/background.jpg);
-}
 
 .title{
   padding-top: 5%;
   padding-left: 5%;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bolder;
   color: white;
   font-family:monospace;

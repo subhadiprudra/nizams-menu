@@ -1,7 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import './index.css';
-import background from "./images/backg.jpg";
 import icon from "./images/icon.jpg";
 import {   BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
@@ -19,7 +17,7 @@ const arr = ["DAAWAT-E-KHAAS SHURUAAT","MUTTON - KI - MEHEK","LAJAWAB - JALPARI"
         for (let i = 0; i < arr.length; i++) {
             rows.push(<ItemType v={arr[i]} index={i} type= {t}/>);
         }
-        return  <div><div>{rows}</div></div>
+        return  <div><div>{rows}</div><br></br><br></br><br></br></div>
     }
   }
   
