@@ -3,110 +3,424 @@
         "DAAWAT-E-KHAAS SHURUAAT":[
             {
                 "name": "SURK BHATTIWALA PANEER",
-                "cost": "294",
+                "nonac_cost": "245",
+                "ac_cost" : "294",
                 "imag" : ""
             },
             {
                 "name": "BHATTI KA MURGA (FULL)",
-                "cost": "522",
+                "nonac_cost": "435",
+                "ac_cost" : "522",
                 "imag" : ""},
             {
                 "name": "BHATTI KA MURGA (HALF)",
-                "cost": "270",
+                "nonac_cost": "225",
+                "ac_cost" : "522",
                 "imag" : ""
             },
             {
                 "name": "MURGA TIKKA (6PCS.)",
-                "cost": "354",
+                "nonac_cost": "295",
+                "ac_cost" : "354",
                 "imag" : ""
             },
             {
                 "name": "MURGA MALAI KABAB (6PCS.)",
-                "cost": "354",
+                "nonac_cost": "295",
+                "ac_cost" : "354",
+                "imag" : ""
+            },
+            {
+                "name": "MURGH SEEKH KABAB",
+                "nonac_cost": "255",
+                "ac_cost" : "306",
+                "imag" : ""
+            },
+            {
+                "name": "MURGH TANGRI KABAB (4 PCS.)",
+                "nonac_cost": "295",
+                "ac_cost" : "354",
+                "imag" : ""
+            },
+            {
+                "name": "MURGH HARIYALI KABAB (6 PCS)",
+                "nonac_cost": "295",
+                "ac_cost" : "354",
+                "imag" : ""
+            }
+            ,{
+                "name": "PESWARI KABAB (6 PCS.)",
+                "nonac_cost": "421",
+                "ac_cost" : "505",
+                "imag" : ""
+            },{
+                "name": "MUTTON SEEKH KABAB",
+                "nonac_cost": "285",
+                "ac_cost" : "342",
+                "imag" : ""
+            },
+            {
+                "name": "NIZAMI FISH TIKKA (4 PCS)",
+                "nonac_cost": "399",
+                "ac_cost" : "478",
                 "imag" : ""
             }
         
+        
         ]
     },
+    
     {
-        "Kathi Kabab Roll'S":[
+        "MUTTON - KI - MEHEK":[
             {
-                "name": "Double Chicken Kathi Kabab Roll",
-                "cost": "125",
+                "name": "MUTTON CHAAP",
+                "nonac_cost": "265",
+                "ac_cost" : "318",
                 "imag" : ""
             },
             {
-                "name": "Double Eggs Roll",
-                "cost": "85",
+                "name": "MUTTON REZALA",
+                "nonac_cost": "265",
+                "ac_cost" : "318",
                 "imag" : ""
             },
             {
-                "name": "Double Mutton Kathi Kabab Roll",
-                "cost": "155",
+                "name": "MUTTON TIKIA MASALA",
+                "nonac_cost": "275",
+                "ac_cost" : "330",
                 "imag" : ""
             }, {
-                "name": "Egg Chicken Roll",
-                "cost": "115",
+                "name": "MUTTON RARA TAJIKI (2 PCS.)",
+                "nonac_cost": "325",
+                "ac_cost" : "390",
                 "imag" : ""
             } 
             ,{
-                "name": "Egg Mutton Roll",
-                "cost": "135",
-                "imag" : ""
-            },
-             {
-                "name": "Egg Roll",
-                "cost": "65",
+                "name": "MUTTON KASSA (4 PCS.)",
+                "nonac_cost": "380",
+                "ac_cost" : "456",
                 "imag" : ""
             }
-            , {
-                "name": "Masala Paneer Roll",
-                "cost": "85",
+        
+        ]
+    },
+   
+    {
+        "LAJAWAB - JALPARI":[
+            {
+                "name": "FISH TIKKA MASALA - FULL( 4PCS.)",
+                "nonac_cost": "420",
+                "ac_cost" : "350",
+                "imag" : ""
+            },
+            {
+                "name": "FISH TIKKA MASALA - HALF( 4PCS.)",
+                "nonac_cost": "261",
+                "ac_cost" : "315",
+                "imag" : ""
+            }
+        ]
+    },
+    
+    {
+        "SUBJIYO - KI - MILAN":[
+            {
+                "name": "PANEER BUTTER MASALA",
+                "nonac_cost": "215",
+                "ac_cost" : "258",
+                "imag" : ""
+            },
+            {
+                "name": "KADAI PANEER",
+                "nonac_cost": "250",
+                "ac_cost" : "300",
+                "imag" : ""
+            }
+        
+        ]
+    },
+    
+    {
+        "MURGH - KI - CHAHAT":[
+            {
+                "name": "MURGH CHAAP",
+                "nonac_cost": "235",
+                "ac_cost" : "282",
+                "imag" : ""
+            },
+            {
+                "name": "MURGH TIKKA MASALA",
+                "nonac_cost": "265",
+                "ac_cost" : "318",
+                "imag" : ""
+            }
+            ,
+            {
+                "name": "MURGH RESHMI BUTTER MASALA",
+                "nonac_cost": "265",
+                "ac_cost" : "318",
+                "imag" : ""
+            },
+            {
+                "name": "MURGH FRY",
+                "nonac_cost": "80",
+                "ac_cost" : "96",
                 "imag" : ""
             }
         
         ]
     },
     {
-        "Tandoori Kebab'S":[
+        "DUM - E - BASMATI":[
             {
-                "name": "a",
-                "cost": "500",
+                "name": "MURGH BIRYANI",
+                "nonac_cost": "245",
+                "ac_cost" : "294",
                 "imag" : ""
             },
             {
-                "name": "a",
-                "cost": "500",
+                "name": "MUTTON BIRYANI",
+                "nonac_cost": "275",
+                "ac_cost" : "330",
                 "imag" : ""
             },
             {
-                "name": "a",
-                "cost": "500",
+                "name": "NIZAMS SPECIAL MURGH BIRYANI",
+                "nonac_cost": "405",
+                "ac_cost" : "486",
+                "imag" : ""
+            },
+            {
+                "name": "NIZAMS SPECIAL  MUTTON BIRYANI",
+                "nonac_cost": "435",
+                "ac_cost" : "522",
                 "imag" : ""
             }
         
         ]
     },
     {
-        "Veg Gravy":[
+        "ROTI - KA - KHAZANA":[
             {
-                "name": "a",
-                "cost": "500",
+                "name": "TANDOORI ROTI - PLAIN",
+                "nonac_cost": "35",
+                "ac_cost" : "42",
                 "imag" : ""
             },
             {
-                "name": "a",
-                "cost": "500",
+                "name": "TANDOORI ROTI - BUTTER",
+                "nonac_cost": "45",
+                "ac_cost" : "54",
                 "imag" : ""
             },
             {
-                "name": "a",
-                "cost": "500",
+                "name": "NAN - PLAIN",
+                "nonac_cost": "55",
+                "ac_cost" : "66",
+                "imag" : ""
+            },
+            {
+                "name": "NAAN - BUTTER",
+                "nonac_cost": "65",
+                "ac_cost" : "78",
+                "imag" : ""
+            },
+            {
+                "name": "PLAIN PARATHA",
+                "nonac_cost": "40",
+                "ac_cost" : "48",
+                "imag" : ""
+            },
+            {
+                "name": "NIZAMS LACCHA PARATHA",
+                "nonac_cost": "65",
+                "ac_cost" : "78",
+                "imag" : ""
+            },
+            {
+                "name": "TURKISH BREAD",
+                "nonac_cost": "55",
+                "ac_cost" : "66",
+                "imag" : ""
+            }
+        
+        ]
+    } 
+    ,{
+        "NIZAM' S SPECIAL KABAB ROLL'S":[
+            {
+                "name": "EGG ROLL - SINGLE",
+                "nonac_cost": "55",
+                "ac_cost" : "66",
+                "imag" : ""
+            },
+            {
+                "name": "EGG ROLL - DOUBLE",
+                "nonac_cost": "70",
+                "ac_cost" : "84",
+                "imag" : ""
+            },
+            {
+                "name": "EGG ALOO ROLL",
+                "nonac_cost": "70",
+                "ac_cost" : "84",
+                "imag" : ""
+            },
+            {
+                "name": "BACCHAN SPECIAL ALOO ROLL",
+                "nonac_cost": "55",
+                "ac_cost" : "66",
+                "imag" : ""
+            },
+            {
+                "name": "MASALA PANEER ROLL",
+                "nonac_cost": "65",
+                "ac_cost" : "78",
+                "imag" : ""
+            },
+            {
+                "name": "CHICKEN KATHI ROLL- SINGLE",
+                "nonac_cost": "85",
+                "ac_cost" : "102",
+                "imag" : ""
+            },
+            {
+                "name": "CHICKEN KATHI ROLL- DOUBLE",
+                "nonac_cost": "145",
+                "ac_cost" : "174",
+                "imag" : ""
+            },
+            {
+                "name": "MUTTON KATHI ROLL-SINGLE",
+                "nonac_cost": "95",
+                "ac_cost" : "114",
+                "imag" : ""
+            },
+            {
+                "name": "MUTTON KATHI ROLL-DOUBLE",
+                "nonac_cost": "160",
+                "ac_cost" : "192",
+                "imag" : ""
+            },
+            {
+                "name": "EGG CHICKEN KATHI ROLL- SINGLE",
+                "nonac_cost": "100",
+                "ac_cost" : "120",
+                "imag" : ""
+            },
+            {
+                "name": "EGG CHICKEN KATHI ROLL- DOUBLE",
+                "nonac_cost": "145",
+                "ac_cost" : "210",
+                "imag" : ""
+            },
+            {
+                "name": "EGG MUTTON KATHI ROLL- SINGLE",
+                "nonac_cost": "110",
+                "ac_cost" : "132",
+                "imag" : ""
+            },
+            {
+                "name": "EXTRA CHICKEN",
+                "nonac_cost": "150",
+                "ac_cost" : "180",
+                "imag" : ""
+            },
+            {
+                "name": "EXTRA MUTTON",
+                "nonac_cost": "180",
+                "ac_cost" : "216",
+                "imag" : ""
+            },
+            {
+                "name": "EXTRA ALOO",
+                "nonac_cost": "15",
+                "ac_cost" : "18",
+                "imag" : ""
+            },
+            {
+                "name": "EXTRA EGG",
+                "nonac_cost": "15",
+                "ac_cost" : "18",
+                "imag" : ""
+            }
+        
+        ]
+    },
+    {
+        "ACCOMPANIMENTS":[
+            {
+                "name": "GREEN SALAD",
+                "nonac_cost": "55",
+                "ac_cost" : "66",
+                "imag" : ""
+            },
+            {
+                "name": "RAITA",
+                "nonac_cost": "65",
+                "ac_cost" : "78",
+                "imag" : ""
+            }
+            ,
+            {
+                "name": "NIZAMI BURHANI",
+                "nonac_cost": "45",
+                "ac_cost" : "54",
+                "imag" : ""
+            }
+            ,
+            {
+                "name": "FRESH LINE SODA",
+                "nonac_cost": "50",
+                "ac_cost" : "60",
+                "imag" : ""
+            },
+            {
+                "name": "MINERAL WATER",
+                "nonac_cost": "30",
+                "ac_cost" : "30",
                 "imag" : ""
             }
         
         ]
     }
+    ,{
+        "NIZAM'S - KI - MITHAS":[
+            {
+                "name": "ZAFRANI PHIRNI",
+                "nonac_cost": "95",
+                "ac_cost" : "114",
+                "imag" : ""
+            },
+            {
+                "name": "BEGUM PASAND MALAI",
+                "nonac_cost": "185",
+                "ac_cost" : "222",
+                "imag" : ""
+            }
+        
+        ]
+    }
+    ,{
+        "RAMJAN SPECIAL":[
+            {
+                "name": "HALEEM (CHICKEN)",
+                "nonac_cost": "190",
+                "ac_cost" : "228",
+                "imag" : ""
+            },
+            {
+                "name": "HALEEM (MUTTON)",
+                "nonac_cost": "240",
+                "ac_cost" : "288",
+                "imag" : ""
+            }
+        
+        ]
+    }
+
+
+
 
     
     
